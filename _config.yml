@@ -1,2 +1,4 @@
+plugins:
+        - jekyll-feed
 theme: jekyll-theme-slate
 title: UltraGrid Development Blog
