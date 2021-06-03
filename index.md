@@ -1,4 +1,5 @@
 <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="/feed.xml">
+<link rel="shortcut icon" href="/favicon.ico" />
 
 {% for post in site.posts %}
 ## [{{ post.title }}]({{ post.url }})
