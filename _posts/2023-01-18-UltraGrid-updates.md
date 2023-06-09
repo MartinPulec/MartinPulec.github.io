@@ -4,9 +4,9 @@ title: UltraGrid updates
 ---
 ![interlaced video](/img/DnI7S.jpg)<br />
 In development [**continuous builds**](https://github.com/CESNET/UltraGrid/releases/tag/continuous)
-there has recently arrived few new features and also fixes.
+channel there has recently arrived few new features and also fixes.
 
-Notably was improved the deinterlacing stuff in UltraGrid, notably:
+Mainly the deinterlacing stuff in UltraGrid has been improved, in particular:
 
 - almost every pixel format can now be deinterlaced, namely higher bit depth ones
 - the spatial _blend_ deinterlace was improved in terms of quality (doesn't decay vertical
