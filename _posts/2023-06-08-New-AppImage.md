@@ -4,7 +4,7 @@ title: New AppImages
 ---
 ![Distro Logos](/img/rhel-derivatives.png)<br />
 There is now a new alternative (similarly as for macOS) Linux build available
-[**here**](https://github.com/CESNET/UltraGrid/releases/download/continuous/UltraGrid-alt-glibc2.17-x86_64.AppImage)
+[**here**](https://frakira.fi.muni.cz/~xpulec/ug-alt-builds/)
 targetting older Linux distributions than regular
 [continuous](https://github.com/CESNET/UltraGrid/releases/tag/continuous)
 build.
